@@ -1,0 +1,21 @@
+
+
+git init
+
+git remote add origin https://github.com/ttomito/fdsdf.git
+
+git status
+
+git add .
+
+git commit -m 
+
+git push 
+
+si tenemos problemas en el push, puede ser porque tocamos algo en github y eso nos tirar error,   lo debemos hacer es un 
+
+git pull, luego ir al archivo q tiene un problema aparece con una M mayuscula y accept changes
+
+git push,  deberia fucionar ya
+
+TODO ESTO PARECE Q PUEDE HACERSE DE VISUAL DIRECTO ES UNA RE JOYA, estara en un video q dejare en notion
